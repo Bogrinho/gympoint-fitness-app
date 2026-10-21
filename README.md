@@ -1,6 +1,6 @@
 # GymPoint — Fitness App UI/UX Prototype
 
-GymPoint is a **student team design project** for a fitness app. This repository documents the Figma design as a portfolio case study. It is a UI/UX prototype; there is no implemented mobile app or backend in this repository.
+GymPoint is a **student design project** for a fitness app. This repository documents the Figma design as a portfolio case study. It is a UI/UX prototype; there is no implemented mobile app or backend in this repository.
 
 ![Overview thumbnail of the original Figma canvas](figma-overview.png)
 
